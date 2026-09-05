@@ -87,7 +87,7 @@ def launch_script(python_exe, script_path):
 class LauncherGUI(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("ISL Learning Suite")
+        self.title("GestureGuru")
         self.geometry("920x580")
         self.minsize(820, 520)
         self.configure(bg="#F3EEE6")
@@ -105,14 +105,14 @@ class LauncherGUI(tk.Tk):
 
         tk.Label(
             header,
-            text="ISL Learning Suite",
+            text="GestureGuru",
             font=title_font,
             bg="#F3EEE6",
             fg="#1F1A17",
         ).pack(anchor="w")
         tk.Label(
             header,
-            text="Learn and practice Indian Sign Language — alphabets A–Z and numbers 1–9.",
+            text="Interactive Indian Sign Language Learning System — alphabets A–Z and numbers 1–9.",
             font=body_font,
             bg="#F3EEE6",
             fg="#5A534C",

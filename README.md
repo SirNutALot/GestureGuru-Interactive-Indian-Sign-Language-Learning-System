@@ -1,10 +1,11 @@
-# Interactive Indian Sign Language Learning System
+# GestureGuru
+### Interactive Indian Sign Language Learning System
 
 A real-time desktop app that helps beginners **learn and practice Indian Sign Language (ISL)** with a webcam.
 
 It recognizes **digits 1–9** and **letters A–Z**, and supports live detection, guided practice tests, keyboard typing from signs, and optional game gesture controls.
 
-**Repo:** https://github.com/SirNutALot/Interactive-Indian-Sign-Language-Learning-System
+**Repo:** https://github.com/SirNutALot/GestureGuru-Interactive-Indian-Sign-Language-Learning-System
 
 ---
 
@@ -43,8 +44,8 @@ It recognizes **digits 1–9** and **letters A–Z**, and supports live detectio
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/SirNutALot/Interactive-Indian-Sign-Language-Learning-System.git
-cd Interactive-Indian-Sign-Language-Learning-System
+git clone https://github.com/SirNutALot/GestureGuru-Interactive-Indian-Sign-Language-Learning-System.git
+cd GestureGuru-Interactive-Indian-Sign-Language-Learning-System
 ```
 
 ### 2. First-time setup

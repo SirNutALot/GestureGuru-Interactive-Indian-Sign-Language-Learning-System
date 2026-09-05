@@ -3,7 +3,7 @@ setlocal EnableExtensions
 cd /d "%~dp0"
 
 echo ============================================
-echo  ISL Learning Suite - First-time Setup
+echo  GestureGuru - First-time Setup
 echo ============================================
 echo.
 
