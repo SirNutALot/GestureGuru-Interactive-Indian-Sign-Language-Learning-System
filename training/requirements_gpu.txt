@@ -1,0 +1,21 @@
+# GPU training environment – TensorFlow 2.10 + CUDA 11.2 + cuDNN 8.1
+# to start -
+# .\venv_tf_gpu\Scripts\activate
+#python -u train_model.py
+
+# Once done execute in powershell -
+# deactivate
+# .\venv_tf\Scripts\activate
+
+tensorflow==2.10.0
+keras==2.10.0
+numpy==1.23.5
+protobuf==3.19.6
+h5py==3.7.0
+scipy==1.10.1
+opencv-python==4.8.1.78
+pillow==9.2.0
+matplotlib==3.7.1
+psutil==5.9.5
+packaging==23.1
+termcolor==2.3.0

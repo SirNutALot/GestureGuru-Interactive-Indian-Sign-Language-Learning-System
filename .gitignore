@@ -1,0 +1,33 @@
+# Virtual environments
+.venv/
+.isl_env/
+isl_typing_env/
+venv_tf/
+venv_tf_gpu/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Local clutter
+backups/
+logs/
+compatibility_fixes/
+*.log
+
+# Large / generated (keep model tracked if you want clones to work offline;
+# uncomment the next line if model.h5 is too large for Git)
+# models/model.h5
